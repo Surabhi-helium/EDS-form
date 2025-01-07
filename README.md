@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--forms-lab--ujjwal5.hlx.page/
-- Live: https://main--forms-lab--ujjwal5.hlx.live/
+- Preview: https://main--EDS-form--Surabhi-helium.hlx.page/
+- Live: https://main--EDS-form--Surabhi-helium.hlx.live/
 
 ## Installation
 
